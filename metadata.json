@@ -1,0 +1,9 @@
+{
+  "name": "Mahanadi House",
+  "description": "Modern, secure, mobile-first school house management app for Mahanadi House students, house teachers, and house captain.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

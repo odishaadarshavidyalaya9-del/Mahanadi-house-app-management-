@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Mahanadi House</string>
+    <string name="house_motto">PRIDE BY MY SIDE</string>
+    <string name="login_captain">Captain Portal</string>
+    <string name="login_teacher">House Teacher Portal</string>
+    <string name="login_member">House Member Portal</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_attendance">Attendance</string>
+    <string name="tab_chat">Chat</string>
+    <string name="tab_calls">Calls</string>
+    <string name="tab_profile">Profile</string>
+</resources>
